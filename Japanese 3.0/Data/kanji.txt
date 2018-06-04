@@ -1,0 +1,4 @@
+﻿#k#山#f#やま#r#yama#m#Mountain#e#
+#k#木#f#き#r#ki#m#Tree#e#
+#k#川#f#かわ#r#kawa#m#River#e#
+#k#日#f#にち#r#nichi#m#Day#e#

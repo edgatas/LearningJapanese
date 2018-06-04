@@ -1,0 +1,5 @@
+C:\Users\edgar\Documents\Projects\Random_Programs\Japanese 3.0\JapaneseAdditions\bin\Debug\JapaneseAdditions.dll
+C:\Users\edgar\Documents\Projects\Random_Programs\Japanese 3.0\JapaneseAdditions\bin\Debug\JapaneseAdditions.pdb
+C:\Users\edgar\Documents\Projects\Random_Programs\Japanese 3.0\JapaneseAdditions\obj\Debug\JapaneseAdditions.csprojResolveAssemblyReference.cache
+C:\Users\edgar\Documents\Projects\Random_Programs\Japanese 3.0\JapaneseAdditions\obj\Debug\JapaneseAdditions.dll
+C:\Users\edgar\Documents\Projects\Random_Programs\Japanese 3.0\JapaneseAdditions\obj\Debug\JapaneseAdditions.pdb

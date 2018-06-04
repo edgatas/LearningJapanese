@@ -1,0 +1,12 @@
+C:\Users\edgar\Documents\Projects\Random_Programs\Japanese 3.0\Japanese 3.0\bin\Debug\Japanese.exe.config
+C:\Users\edgar\Documents\Projects\Random_Programs\Japanese 3.0\Japanese 3.0\bin\Debug\Japanese.exe
+C:\Users\edgar\Documents\Projects\Random_Programs\Japanese 3.0\Japanese 3.0\bin\Debug\Japanese.pdb
+C:\Users\edgar\Documents\Projects\Random_Programs\Japanese 3.0\Japanese 3.0\obj\Debug\Japanese.exe
+C:\Users\edgar\Documents\Projects\Random_Programs\Japanese 3.0\Japanese 3.0\obj\Debug\Japanese.pdb
+C:\Users\edgar\Documents\Projects\Random_Programs\Japanese 3.0\Japanese 3.0\obj\Debug\Japanese.MainUI.resources
+C:\Users\edgar\Documents\Projects\Random_Programs\Japanese 3.0\Japanese 3.0\obj\Debug\Japanese.csproj.GenerateResource.Cache
+C:\Users\edgar\Documents\Projects\Random_Programs\Japanese 3.0\Japanese 3.0\obj\Debug\Japanese.Properties.Resources.resources
+C:\Users\edgar\Documents\Projects\Random_Programs\Japanese 3.0\Japanese 3.0\obj\Debug\Japanese.csprojResolveAssemblyReference.cache
+C:\Users\edgar\Documents\Projects\Random_Programs\Japanese 3.0\Japanese 3.0\obj\Debug\Japanese.Forms.settingsForm.resources
+C:\Users\edgar\Documents\Projects\Random_Programs\Japanese 3.0\Japanese 3.0\obj\Debug\Japanese.Forms.WordsForm.resources
+C:\Users\edgar\Documents\Projects\Random_Programs\Japanese 3.0\Japanese 3.0\obj\Debug\Japanese.AddKanjiWord.resources
